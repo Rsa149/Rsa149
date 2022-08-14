@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raman</h1>
-<h3 align="center">A Software Engineer in process...</h3>
+<h3 align="center">A Software Engineer in progress...</h3>
 
 - 🔭 I’m currently working on [Mandolins](https://github.com/mandolins-uregina/rmo-website)
 
