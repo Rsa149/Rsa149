@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Online Marketplace](https://github.com/Rsa149/ENSE-374-Project)
 
-- 🌱 I’m currently learning **Computer System Architectures**
+- 🌱 I’m currently learning **Software System Testing and Impacts of AI**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Rsa149?tab=repositories)
 
