@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raman</h1>
 <h3 align="center">A Software Engineer in progress...</h3>
 
+- 💬 Here is my [resume](https://rsa149.github.io/Portfolio/)
+
 - 🔭 I’m currently working on [Online Marketplace](https://github.com/Rsa149/ENSE-374-Project)
 
 - 🌱 I’m currently learning **Computer System Architectures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rsa149?tab=repositories](https://github.com/Rsa149?tab=repositories)
-
-- 💬 Ask me about **Artificial Intelligence**
+- 👨‍💻 All of my projects are available [here](https://github.com/Rsa149?tab=repositories)
 
 - 📫 How to reach me **rsa149@uregina.ca**
 
